@@ -1,0 +1,5 @@
+pyautogui
+pyperclip
+pandas
+gspread
+oauth2client
